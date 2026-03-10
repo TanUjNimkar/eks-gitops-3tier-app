@@ -1,6 +1,9 @@
 
 
+3-Tier Application Deployment on Amazon EKS with GitOps
+Project Overview
 
+This project demonstrates deployment of a production-grade 3-tier web application on Amazon EKS using GitOps principles.
 # Wanderblog
 
 ![alt text](image.png)
