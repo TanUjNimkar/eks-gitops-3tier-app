@@ -1,4 +1,4 @@
-# **3-Tier Application Deployment on Amazon EKS with GitOp**
+# **3-Tier Application Deployment on Amazon EKS with GitOps**
 
 ## **Project Overview**
 
