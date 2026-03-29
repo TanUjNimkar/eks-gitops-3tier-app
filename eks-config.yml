@@ -15,7 +15,7 @@ availabilityZones:
   - ap-south-1b
 
 iam:
-  withOIDC: t
+  withOIDC: true
 
 managedNodeGroups:
   - name: wanderblog-node-group
