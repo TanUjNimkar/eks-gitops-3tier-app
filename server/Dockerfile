@@ -1,7 +1,7 @@
 # -------- Stage 1: Install Dependencies --------
 FROM node:20-alpine AS deps
 
-WORKDIR /
+WORKDIR /app
 
 COPY package*.json ./
 
