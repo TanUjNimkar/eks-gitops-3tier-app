@@ -34,6 +34,6 @@ managedNodeGroups:
         efs: false
         albIngress: true
         xRay: false
-        cloudWatch: false
+        cloudWatch: true
     labels:
       lifecycle: ec2-autoscaler
