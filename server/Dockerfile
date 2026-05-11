@@ -17,7 +17,7 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 
 # Copy source code
-COPY . .
+COPY 
 
 # Security: run as non-root
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup
