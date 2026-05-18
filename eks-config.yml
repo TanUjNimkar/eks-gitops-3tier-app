@@ -32,7 +32,7 @@ managedNodeGroups:
         ebs: true
         fsx: false
         efs: false
-        albIngress: tru
+        albIngress: true
         xRay: false
         cloudWatch: false
     labels:
